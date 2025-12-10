@@ -23,3 +23,7 @@ Global Superstore dataset (Sales, Profit, Orders, Regions, Segments, Customers, 
 ✔ Global Sales Map using bubble intensity and geographic distribution
 ✔ Top 5 & Bottom 5 Products by Profit
 ✔ Customer Profitability Bar Chart
+
+
+Link:https://github.com/prajaktapatil007/Global-Superstore-Dashboard/blob/main/Global%20Superstore.png
+
