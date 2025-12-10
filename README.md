@@ -7,9 +7,13 @@ An interactive Power BI dashboard designed to analyze global sales performance, 
 3.Tech Stack:
 ⚡ Power BI Desktop
 🧮 DAX (Data Analysis Expressions)
+
 🔄 Power Query (ETL Transformation)
+
 📊 Excel / CSV Data Modeling
+
 🌍 Bing Maps Visualization
+
 🗂️ Data Modeling (Star Schema)
 
 4.Data Sources:
